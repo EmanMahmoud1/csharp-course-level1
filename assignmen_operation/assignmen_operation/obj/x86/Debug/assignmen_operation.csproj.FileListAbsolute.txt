@@ -1,0 +1,4 @@
+D:\PHD_research\programming_tools\c#\projects\assignmen_operation\assignmen_operation\bin\Debug\assignmen_operation.exe
+D:\PHD_research\programming_tools\c#\projects\assignmen_operation\assignmen_operation\bin\Debug\assignmen_operation.pdb
+D:\PHD_research\programming_tools\c#\projects\assignmen_operation\assignmen_operation\obj\x86\Debug\assignmen_operation.exe
+D:\PHD_research\programming_tools\c#\projects\assignmen_operation\assignmen_operation\obj\x86\Debug\assignmen_operation.pdb
