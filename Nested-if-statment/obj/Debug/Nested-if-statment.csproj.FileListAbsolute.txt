@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\Nested-if-statment\Nested-if-statment\bin\Debug\Nested-if-statment.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\Nested-if-statment\Nested-if-statment\bin\Debug\Nested-if-statment.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\Nested-if-statment\Nested-if-statment\bin\Debug\Nested-if-statment.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\Nested-if-statment\Nested-if-statment\obj\Debug\Nested-if-statment.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\Nested-if-statment\Nested-if-statment\obj\Debug\Nested-if-statment.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\Nested-if-statment\Nested-if-statment\obj\Debug\Nested-if-statment.pdb
