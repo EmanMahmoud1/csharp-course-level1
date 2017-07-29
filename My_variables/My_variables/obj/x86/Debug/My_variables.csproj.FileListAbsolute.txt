@@ -1,0 +1,4 @@
+D:\PHD_research\programming_tools\c#\projects\My_variables\My_variables\bin\Debug\My_variables.exe
+D:\PHD_research\programming_tools\c#\projects\My_variables\My_variables\bin\Debug\My_variables.pdb
+D:\PHD_research\programming_tools\c#\projects\My_variables\My_variables\obj\x86\Debug\My_variables.exe
+D:\PHD_research\programming_tools\c#\projects\My_variables\My_variables\obj\x86\Debug\My_variables.pdb
