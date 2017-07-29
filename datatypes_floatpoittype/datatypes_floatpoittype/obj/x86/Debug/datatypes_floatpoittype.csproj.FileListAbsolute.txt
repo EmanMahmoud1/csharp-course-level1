@@ -1,0 +1,4 @@
+D:\PHD_research\programming_tools\c#\projects\datatypes_floatpoittype\datatypes_floatpoittype\bin\Debug\datatypes_floatpoittype.exe
+D:\PHD_research\programming_tools\c#\projects\datatypes_floatpoittype\datatypes_floatpoittype\bin\Debug\datatypes_floatpoittype.pdb
+D:\PHD_research\programming_tools\c#\projects\datatypes_floatpoittype\datatypes_floatpoittype\obj\x86\Debug\datatypes_floatpoittype.exe
+D:\PHD_research\programming_tools\c#\projects\datatypes_floatpoittype\datatypes_floatpoittype\obj\x86\Debug\datatypes_floatpoittype.pdb
