@@ -1,0 +1,4 @@
+D:\PHD_research\programming_tools\c#\projects\literal_characters\literal_characters\bin\Debug\literal_characters.exe
+D:\PHD_research\programming_tools\c#\projects\literal_characters\literal_characters\bin\Debug\literal_characters.pdb
+D:\PHD_research\programming_tools\c#\projects\literal_characters\literal_characters\obj\x86\Debug\literal_characters.exe
+D:\PHD_research\programming_tools\c#\projects\literal_characters\literal_characters\obj\x86\Debug\literal_characters.pdb
