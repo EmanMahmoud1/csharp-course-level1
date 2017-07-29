@@ -1,0 +1,4 @@
+D:\PHD_research\programming_tools\c#\projects\mathmetical_operators\mathmetical_operators\bin\Debug\mathmetical_operators.exe
+D:\PHD_research\programming_tools\c#\projects\mathmetical_operators\mathmetical_operators\bin\Debug\mathmetical_operators.pdb
+D:\PHD_research\programming_tools\c#\projects\mathmetical_operators\mathmetical_operators\obj\x86\Debug\mathmetical_operators.exe
+D:\PHD_research\programming_tools\c#\projects\mathmetical_operators\mathmetical_operators\obj\x86\Debug\mathmetical_operators.pdb
