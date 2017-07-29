@@ -1,0 +1,4 @@
+D:\PHD_research\programming_tools\c#\projects\Boolean_operators\Boolean_operators\bin\Debug\Boolean_operators.exe
+D:\PHD_research\programming_tools\c#\projects\Boolean_operators\Boolean_operators\bin\Debug\Boolean_operators.pdb
+D:\PHD_research\programming_tools\c#\projects\Boolean_operators\Boolean_operators\obj\x86\Debug\Boolean_operators.exe
+D:\PHD_research\programming_tools\c#\projects\Boolean_operators\Boolean_operators\obj\x86\Debug\Boolean_operators.pdb
