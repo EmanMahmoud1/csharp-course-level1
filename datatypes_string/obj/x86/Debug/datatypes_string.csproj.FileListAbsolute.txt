@@ -1,0 +1,5 @@
+D:\PHD_research\programming_tools\c#\projects\datatypes_string\datatypes_string\bin\Debug\datatypes_string.exe
+D:\PHD_research\programming_tools\c#\projects\datatypes_string\datatypes_string\bin\Debug\datatypes_string.pdb
+D:\PHD_research\programming_tools\c#\projects\datatypes_string\datatypes_string\obj\x86\Debug\datatypes_string.exe
+D:\PHD_research\programming_tools\c#\projects\datatypes_string\datatypes_string\obj\x86\Debug\datatypes_string.pdb
+D:\PHD_research\programming_tools\c#\projects\datatypes_string\datatypes_string\obj\x86\Debug\datatypes_string.csprojResolveAssemblyReference.cache
