@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\challenge1\challenge1\bin\Debug\challenge1.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\challenge1\challenge1\bin\Debug\challenge1.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\challenge1\challenge1\bin\Debug\challenge1.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\challenge1\challenge1\obj\Debug\challenge1.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\challenge1\challenge1\obj\Debug\challenge1.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\challenge1\challenge1\obj\Debug\challenge1.pdb
