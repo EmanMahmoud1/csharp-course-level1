@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\ternary_operator\ternary_operator\bin\Debug\ternary_operator.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\ternary_operator\ternary_operator\bin\Debug\ternary_operator.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\ternary_operator\ternary_operator\bin\Debug\ternary_operator.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\ternary_operator\ternary_operator\obj\Debug\ternary_operator.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\ternary_operator\ternary_operator\obj\Debug\ternary_operator.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\ternary_operator\ternary_operator\obj\Debug\ternary_operator.pdb
