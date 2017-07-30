@@ -1,0 +1,5 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\ternary_condition2\ternary_condition2\bin\Debug\ternary_condition2.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\ternary_condition2\ternary_condition2\bin\Debug\ternary_condition2.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\ternary_condition2\ternary_condition2\bin\Debug\ternary_condition2.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\ternary_condition2\ternary_condition2\obj\Debug\ternary_condition2.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\ternary_condition2\ternary_condition2\obj\Debug\ternary_condition2.pdb
