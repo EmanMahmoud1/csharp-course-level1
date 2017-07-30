@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\mutiplication_table\mutiplication_table\bin\Debug\mutiplication_table.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\mutiplication_table\mutiplication_table\obj\Debug\mutiplication_table.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\mutiplication_table\mutiplication_table\obj\Debug\mutiplication_table.pdb
+D:\localrepository\csharp-course-level1\csharp-course-level1\mutiplication_table\bin\Debug\mutiplication_table.exe.config
+D:\localrepository\csharp-course-level1\csharp-course-level1\mutiplication_table\obj\Debug\mutiplication_table.exe
+D:\localrepository\csharp-course-level1\csharp-course-level1\mutiplication_table\obj\Debug\mutiplication_table.pdb
