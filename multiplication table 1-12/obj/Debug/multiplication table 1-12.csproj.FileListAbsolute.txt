@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\multiplication table 1-12\multiplication table 1-12\bin\Debug\multiplication table 1-12.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\multiplication table 1-12\multiplication table 1-12\bin\Debug\multiplication table 1-12.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\multiplication table 1-12\multiplication table 1-12\bin\Debug\multiplication table 1-12.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\multiplication table 1-12\multiplication table 1-12\obj\Debug\multiplication table 1-12.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\multiplication table 1-12\multiplication table 1-12\obj\Debug\multiplication table 1-12.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\multiplication table 1-12\multiplication table 1-12\obj\Debug\multiplication table 1-12.pdb
