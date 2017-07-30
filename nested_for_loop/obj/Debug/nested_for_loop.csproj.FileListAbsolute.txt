@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\nested_for_loop\nested_for_loop\bin\Debug\nested_for_loop.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\nested_for_loop\nested_for_loop\bin\Debug\nested_for_loop.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\nested_for_loop\nested_for_loop\bin\Debug\nested_for_loop.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\nested_for_loop\nested_for_loop\obj\Debug\nested_for_loop.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\nested_for_loop\nested_for_loop\obj\Debug\nested_for_loop.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\nested_for_loop\nested_for_loop\obj\Debug\nested_for_loop.pdb
