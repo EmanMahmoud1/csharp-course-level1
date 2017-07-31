@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\explicit_variable\explicit_variable\bin\Debug\explicit_variable.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\explicit_variable\explicit_variable\obj\Debug\explicit_variable.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\explicit_variable\explicit_variable\bin\Debug\explicit_variable.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\explicit_variable\explicit_variable\bin\Debug\explicit_variable.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\explicit_variable\explicit_variable\obj\Debug\explicit_variable.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\explicit_variable\explicit_variable\obj\Debug\explicit_variable.pdb
