@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\empolyee_salary\empolyee_salary\bin\Debug\empolyee_salary.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\empolyee_salary\empolyee_salary\bin\Debug\empolyee_salary.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\empolyee_salary\empolyee_salary\bin\Debug\empolyee_salary.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\empolyee_salary\empolyee_salary\obj\Debug\empolyee_salary.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\empolyee_salary\empolyee_salary\obj\Debug\empolyee_salary.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\empolyee_salary\empolyee_salary\obj\Debug\empolyee_salary.pdb
