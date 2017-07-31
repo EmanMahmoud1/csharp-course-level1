@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\variable type conversion_convert\variable type conversion_convert\bin\Debug\variable type conversion_convert.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\variable type conversion_convert\variable type conversion_convert\bin\Debug\variable type conversion_convert.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\variable type conversion_convert\variable type conversion_convert\bin\Debug\variable type conversion_convert.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\variable type conversion_convert\variable type conversion_convert\obj\Debug\variable type conversion_convert.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\variable type conversion_convert\variable type conversion_convert\obj\Debug\variable type conversion_convert.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\variable type conversion_convert\variable type conversion_convert\obj\Debug\variable type conversion_convert.pdb
