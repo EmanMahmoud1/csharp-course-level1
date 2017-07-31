@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\implicit_variable\implicit_variable\bin\Debug\implicit_variable.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\implicit_variable\implicit_variable\bin\Debug\implicit_variable.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\implicit_variable\implicit_variable\bin\Debug\implicit_variable.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\implicit_variable\implicit_variable\obj\Debug\implicit_variable.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\implicit_variable\implicit_variable\obj\Debug\implicit_variable.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\implicit_variable\implicit_variable\obj\Debug\implicit_variable.pdb
