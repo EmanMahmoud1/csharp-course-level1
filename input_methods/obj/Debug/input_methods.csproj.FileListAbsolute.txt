@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\input_methods\input_methods\bin\Debug\input_methods.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\input_methods\input_methods\bin\Debug\input_methods.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\input_methods\input_methods\bin\Debug\input_methods.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\input_methods\input_methods\obj\Debug\input_methods.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\input_methods\input_methods\obj\Debug\input_methods.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\input_methods\input_methods\obj\Debug\input_methods.csprojResolveAssemblyReference.cache
