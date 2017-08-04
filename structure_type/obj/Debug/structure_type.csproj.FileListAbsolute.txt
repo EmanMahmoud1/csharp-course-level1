@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\structure_type\structure_type\bin\Debug\structure_type.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\structure_type\structure_type\bin\Debug\structure_type.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\structure_type\structure_type\bin\Debug\structure_type.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\structure_type\structure_type\obj\Debug\structure_type.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\structure_type\structure_type\obj\Debug\structure_type.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\structure_type\structure_type\obj\Debug\structure_type.pdb
