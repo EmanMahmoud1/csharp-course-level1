@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\Array_of_string\Array_of_string\bin\Debug\Array_of_string.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\Array_of_string\Array_of_string\bin\Debug\Array_of_string.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\Array_of_string\Array_of_string\bin\Debug\Array_of_string.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\Array_of_string\Array_of_string\obj\Debug\Array_of_string.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\Array_of_string\Array_of_string\obj\Debug\Array_of_string.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\Array_of_string\Array_of_string\obj\Debug\Array_of_string.pdb
