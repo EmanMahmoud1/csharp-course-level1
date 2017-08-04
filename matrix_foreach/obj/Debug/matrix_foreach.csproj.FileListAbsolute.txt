@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\matrix_foreach\matrix_foreach\bin\Debug\matrix_foreach.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\matrix_foreach\matrix_foreach\bin\Debug\matrix_foreach.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\matrix_foreach\matrix_foreach\bin\Debug\matrix_foreach.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\matrix_foreach\matrix_foreach\obj\Debug\matrix_foreach.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\matrix_foreach\matrix_foreach\obj\Debug\matrix_foreach.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\matrix_foreach\matrix_foreach\obj\Debug\matrix_foreach.pdb
