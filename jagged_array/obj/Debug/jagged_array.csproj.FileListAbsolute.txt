@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\jagged_array\jagged_array\bin\Debug\jagged_array.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\jagged_array\jagged_array\bin\Debug\jagged_array.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\jagged_array\jagged_array\bin\Debug\jagged_array.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\jagged_array\jagged_array\obj\Debug\jagged_array.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\jagged_array\jagged_array\obj\Debug\jagged_array.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\jagged_array\jagged_array\obj\Debug\jagged_array.pdb
