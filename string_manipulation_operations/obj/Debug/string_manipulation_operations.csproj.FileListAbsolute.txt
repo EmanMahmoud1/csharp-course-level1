@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\string_manipulation_operations\string_manipulation_operations\bin\Debug\string_manipulation_operations.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\string_manipulation_operations\string_manipulation_operations\bin\Debug\string_manipulation_operations.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\string_manipulation_operations\string_manipulation_operations\bin\Debug\string_manipulation_operations.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\string_manipulation_operations\string_manipulation_operations\obj\Debug\string_manipulation_operations.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\string_manipulation_operations\string_manipulation_operations\obj\Debug\string_manipulation_operations.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\string_manipulation_operations\string_manipulation_operations\obj\Debug\string_manipulation_operations.pdb
