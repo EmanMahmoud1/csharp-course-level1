@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\cut_sentence_into_words_using_split\cut_sentence_into_words_using_split\bin\Debug\cut_sentence_into_words_using_split.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\cut_sentence_into_words_using_split\cut_sentence_into_words_using_split\bin\Debug\cut_sentence_into_words_using_split.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\cut_sentence_into_words_using_split\cut_sentence_into_words_using_split\bin\Debug\cut_sentence_into_words_using_split.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\cut_sentence_into_words_using_split\cut_sentence_into_words_using_split\obj\Debug\cut_sentence_into_words_using_split.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\cut_sentence_into_words_using_split\cut_sentence_into_words_using_split\obj\Debug\cut_sentence_into_words_using_split.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\cut_sentence_into_words_using_split\cut_sentence_into_words_using_split\obj\Debug\cut_sentence_into_words_using_split.pdb
