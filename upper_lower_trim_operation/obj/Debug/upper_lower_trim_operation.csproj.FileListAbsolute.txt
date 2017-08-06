@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\upper_lower_trim_operation\upper_lower_trim_operation\bin\Debug\upper_lower_trim_operation.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\upper_lower_trim_operation\upper_lower_trim_operation\bin\Debug\upper_lower_trim_operation.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\upper_lower_trim_operation\upper_lower_trim_operation\bin\Debug\upper_lower_trim_operation.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\upper_lower_trim_operation\upper_lower_trim_operation\obj\Debug\upper_lower_trim_operation.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\upper_lower_trim_operation\upper_lower_trim_operation\obj\Debug\upper_lower_trim_operation.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\upper_lower_trim_operation\upper_lower_trim_operation\obj\Debug\upper_lower_trim_operation.pdb
