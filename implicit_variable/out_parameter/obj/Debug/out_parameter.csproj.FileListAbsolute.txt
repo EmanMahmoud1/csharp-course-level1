@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\out_parameter\out_parameter\bin\Debug\out_parameter.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\out_parameter\out_parameter\bin\Debug\out_parameter.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\out_parameter\out_parameter\bin\Debug\out_parameter.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\out_parameter\out_parameter\obj\Debug\out_parameter.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\out_parameter\out_parameter\obj\Debug\out_parameter.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\out_parameter\out_parameter\obj\Debug\out_parameter.csprojResolveAssemblyReference.cache
