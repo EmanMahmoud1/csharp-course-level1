@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\referance_value\referance_value\bin\Debug\referance_value.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\referance_value\referance_value\bin\Debug\referance_value.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\referance_value\referance_value\bin\Debug\referance_value.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\referance_value\referance_value\obj\Debug\referance_value.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\referance_value\referance_value\obj\Debug\referance_value.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\referance_value\referance_value\obj\Debug\referance_value.pdb
