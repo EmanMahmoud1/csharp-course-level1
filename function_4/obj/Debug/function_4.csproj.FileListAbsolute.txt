@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_4\function_4\bin\Debug\function_4.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_4\function_4\bin\Debug\function_4.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_4\function_4\bin\Debug\function_4.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_4\function_4\obj\Debug\function_4.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_4\function_4\obj\Debug\function_4.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_4\function_4\obj\Debug\function_4.pdb

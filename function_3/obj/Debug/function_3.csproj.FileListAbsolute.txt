@@ -1,0 +1,5 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_3\function_3\bin\Debug\function_3.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_3\function_3\bin\Debug\function_3.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_3\function_3\bin\Debug\function_3.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_3\function_3\obj\Debug\function_3.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_3\function_3\obj\Debug\function_3.pdb

@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\first_function\first_function\bin\Debug\first_function.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\first_function\first_function\bin\Debug\first_function.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\first_function\first_function\bin\Debug\first_function.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\first_function\first_function\obj\Debug\first_function.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\first_function\first_function\obj\Debug\first_function.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\first_function\first_function\obj\Debug\first_function.pdb

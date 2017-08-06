@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_2\function_2\bin\Debug\function_2.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_2\function_2\bin\Debug\function_2.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_2\function_2\bin\Debug\function_2.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_2\function_2\obj\Debug\function_2.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_2\function_2\obj\Debug\function_2.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\function_2\function_2\obj\Debug\function_2.pdb
