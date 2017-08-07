@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\variable_scope_structure\variable_scope_structure\bin\Debug\variable_scope_structure.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\variable_scope_structure\variable_scope_structure\bin\Debug\variable_scope_structure.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\variable_scope_structure\variable_scope_structure\bin\Debug\variable_scope_structure.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\variable_scope_structure\variable_scope_structure\obj\Debug\variable_scope_structure.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\variable_scope_structure\variable_scope_structure\obj\Debug\variable_scope_structure.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\variable_scope_structure\variable_scope_structure\obj\Debug\variable_scope_structure.pdb
