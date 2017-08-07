@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\struct_function\struct_function\bin\Debug\struct_function.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\struct_function\struct_function\bin\Debug\struct_function.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\struct_function\struct_function\bin\Debug\struct_function.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\struct_function\struct_function\obj\Debug\struct_function.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\struct_function\struct_function\obj\Debug\struct_function.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\struct_function\struct_function\obj\Debug\struct_function.pdb
