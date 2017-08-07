@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\main_method\main_method\bin\Debug\main_method.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\main_method\main_method\bin\Debug\main_method.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\main_method\main_method\bin\Debug\main_method.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\main_method\main_method\obj\Debug\main_method.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\main_method\main_method\obj\Debug\main_method.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\main_method\main_method\obj\Debug\main_method.pdb
