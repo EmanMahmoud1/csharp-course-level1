@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2013\Projects\delegate_definition\delegate_definition\bin\Debug\delegate_definition.exe.config
+c:\users\dr-eman\documents\visual studio 2013\Projects\delegate_definition\delegate_definition\bin\Debug\delegate_definition.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\delegate_definition\delegate_definition\bin\Debug\delegate_definition.pdb
+c:\users\dr-eman\documents\visual studio 2013\Projects\delegate_definition\delegate_definition\obj\Debug\delegate_definition.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2013\Projects\delegate_definition\delegate_definition\obj\Debug\delegate_definition.exe
+c:\users\dr-eman\documents\visual studio 2013\Projects\delegate_definition\delegate_definition\obj\Debug\delegate_definition.pdb
