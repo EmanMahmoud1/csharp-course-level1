@@ -1,0 +1,5 @@
+c:\users\dr-eman\documents\visual studio 2017\Projects\debbug_trace\debbug_trace\bin\Release\debbug_trace.exe.config
+c:\users\dr-eman\documents\visual studio 2017\Projects\debbug_trace\debbug_trace\bin\Release\debbug_trace.exe
+c:\users\dr-eman\documents\visual studio 2017\Projects\debbug_trace\debbug_trace\bin\Release\debbug_trace.pdb
+c:\users\dr-eman\documents\visual studio 2017\Projects\debbug_trace\debbug_trace\obj\Release\debbug_trace.exe
+c:\users\dr-eman\documents\visual studio 2017\Projects\debbug_trace\debbug_trace\obj\Release\debbug_trace.pdb

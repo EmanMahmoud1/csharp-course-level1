@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2017\Projects\debbug_trace\debbug_trace\bin\Debug\debbug_trace.exe.config
+c:\users\dr-eman\documents\visual studio 2017\Projects\debbug_trace\debbug_trace\bin\Debug\debbug_trace.exe
+c:\users\dr-eman\documents\visual studio 2017\Projects\debbug_trace\debbug_trace\bin\Debug\debbug_trace.pdb
+c:\users\dr-eman\documents\visual studio 2017\Projects\debbug_trace\debbug_trace\obj\Debug\debbug_trace.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2017\Projects\debbug_trace\debbug_trace\obj\Debug\debbug_trace.exe
+c:\users\dr-eman\documents\visual studio 2017\Projects\debbug_trace\debbug_trace\obj\Debug\debbug_trace.pdb
