@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2017\Projects\assertion_methods\assertion_methods\bin\Debug\assertion_methods.exe.config
+c:\users\dr-eman\documents\visual studio 2017\Projects\assertion_methods\assertion_methods\bin\Debug\assertion_methods.exe
+c:\users\dr-eman\documents\visual studio 2017\Projects\assertion_methods\assertion_methods\bin\Debug\assertion_methods.pdb
+c:\users\dr-eman\documents\visual studio 2017\Projects\assertion_methods\assertion_methods\obj\Debug\assertion_methods.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2017\Projects\assertion_methods\assertion_methods\obj\Debug\assertion_methods.exe
+c:\users\dr-eman\documents\visual studio 2017\Projects\assertion_methods\assertion_methods\obj\Debug\assertion_methods.pdb
