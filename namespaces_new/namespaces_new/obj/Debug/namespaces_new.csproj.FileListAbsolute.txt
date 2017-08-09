@@ -1,0 +1,10 @@
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\namespaces_new\obj\Debug\namespaces_new.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\namespaces_new\bin\Debug\namespaces_new.exe.config
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\namespaces_new\bin\Debug\namespaces_new.exe
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\namespaces_new\bin\Debug\namespaces_new.pdb
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\namespaces_new\obj\Debug\namespaces_new.exe
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\namespaces_new\obj\Debug\namespaces_new.pdb
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\namespaces_new\bin\Debug\oldbrothers.dll
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\namespaces_new\bin\Debug\youngbrothers.dll
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\namespaces_new\bin\Debug\oldbrothers.pdb
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\namespaces_new\bin\Debug\youngbrothers.pdb

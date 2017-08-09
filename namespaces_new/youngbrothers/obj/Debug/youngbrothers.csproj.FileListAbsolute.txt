@@ -1,0 +1,5 @@
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\youngbrothers\bin\Debug\youngbrothers.dll
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\youngbrothers\bin\Debug\youngbrothers.pdb
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\youngbrothers\obj\Debug\youngbrothers.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\youngbrothers\obj\Debug\youngbrothers.dll
+c:\users\dr-eman\documents\visual studio 2017\Projects\namespaces_new\youngbrothers\obj\Debug\youngbrothers.pdb
