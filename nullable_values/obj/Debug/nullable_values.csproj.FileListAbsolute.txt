@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2017\Projects\nullable_values\nullable_values\bin\Debug\nullable_values.exe.config
+c:\users\dr-eman\documents\visual studio 2017\Projects\nullable_values\nullable_values\bin\Debug\nullable_values.exe
+c:\users\dr-eman\documents\visual studio 2017\Projects\nullable_values\nullable_values\bin\Debug\nullable_values.pdb
+c:\users\dr-eman\documents\visual studio 2017\Projects\nullable_values\nullable_values\obj\Debug\nullable_values.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2017\Projects\nullable_values\nullable_values\obj\Debug\nullable_values.exe
+c:\users\dr-eman\documents\visual studio 2017\Projects\nullable_values\nullable_values\obj\Debug\nullable_values.pdb
