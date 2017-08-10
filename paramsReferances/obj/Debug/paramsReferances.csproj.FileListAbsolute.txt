@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2017\Projects\paramsReferances\paramsReferances\bin\Debug\paramsReferances.exe.config
+c:\users\dr-eman\documents\visual studio 2017\Projects\paramsReferances\paramsReferances\bin\Debug\paramsReferances.exe
+c:\users\dr-eman\documents\visual studio 2017\Projects\paramsReferances\paramsReferances\bin\Debug\paramsReferances.pdb
+c:\users\dr-eman\documents\visual studio 2017\Projects\paramsReferances\paramsReferances\obj\Debug\paramsReferances.csprojResolveAssemblyReference.cache
+c:\users\dr-eman\documents\visual studio 2017\Projects\paramsReferances\paramsReferances\obj\Debug\paramsReferances.exe
+c:\users\dr-eman\documents\visual studio 2017\Projects\paramsReferances\paramsReferances\obj\Debug\paramsReferances.pdb
