@@ -1,0 +1,6 @@
+c:\users\dr-eman\documents\visual studio 2017\Projects\date_time\date_time\bin\Debug\date_time.exe.config
+c:\users\dr-eman\documents\visual studio 2017\Projects\date_time\date_time\bin\Debug\date_time.exe
+c:\users\dr-eman\documents\visual studio 2017\Projects\date_time\date_time\bin\Debug\date_time.pdb
+c:\users\dr-eman\documents\visual studio 2017\Projects\date_time\date_time\obj\Debug\date_time.exe
+c:\users\dr-eman\documents\visual studio 2017\Projects\date_time\date_time\obj\Debug\date_time.pdb
+c:\users\dr-eman\documents\visual studio 2017\Projects\date_time\date_time\obj\Debug\date_time.csprojResolveAssemblyReference.cache
